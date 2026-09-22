@@ -1,2 +1,2 @@
-This is Developer 1 machine
-This is second line
+D1 is modifying again
+D1 is writing the next line
